@@ -3,6 +3,8 @@
 
 ## Benders Decomposition for the Discrete Ordered Median Problem
 
+**Authors**: Ivana Ljubic, Miguel A. Pozo, Justo Puerto and Alberto Torrejón
+
 The following Github repository contains the data instances tested in the computational study section and the full version of the results in table format. 
 
 ### Models description
